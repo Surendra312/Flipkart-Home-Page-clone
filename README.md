@@ -1,2 +1,2 @@
-# Flipkart-Home-Page-clone
+# Flipkart-Home-Page-clone Only Html and Css
 Flipkart-Home Page-clone
